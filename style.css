@@ -1,0 +1,14 @@
+.wrapper {
+  height: 100vh;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
+h4 {
+  padding: 10px;
+}
+
+.text {
+  color: black;
+}
